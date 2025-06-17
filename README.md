@@ -1,8 +1,9 @@
 ```sh
 git init
-git remote add origin git@github.com:cbsumastre/clase-manual-deploy-gh-pages.git
 git add .
-git commit -m "initial commit"
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:cbsumastre/clase-manual-deploy-gh-pages.git
 git push -u origin main
 ```
 
