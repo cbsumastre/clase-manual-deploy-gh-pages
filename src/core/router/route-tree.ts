@@ -10,9 +10,9 @@
 
 // Import Routes
 
-import { Route as rootRoute } from '../../scenes/__root'
-import { Route as ListImport } from '../../scenes/list'
-import { Route as IndexImport } from '../../scenes/index'
+import { Route as rootRoute } from './../../scenes/__root'
+import { Route as ListImport } from './../../scenes/list'
+import { Route as IndexImport } from './../../scenes/index'
 
 // Create/Update Routes
 
