@@ -5,3 +5,9 @@ git add .
 git commit -m "initial commit"
 git push -u origin main
 ```
+
+Para publicar la rama
+
+```sh
+git push -u origin gh-pages
+```
